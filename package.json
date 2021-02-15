@@ -1,0 +1,23 @@
+{
+  "name": "get-tapcount",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianjmacintosh/get-tapcount.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianjmacintosh/get-tapcount/issues"
+  },
+  "homepage": "https://github.com/ianjmacintosh/get-tapcount#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
